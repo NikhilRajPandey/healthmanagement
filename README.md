@@ -1,4 +1,4 @@
-# healthmanagement
+# Healthmanagement
 @author Name = Nikhil Raj Pandey 
 Class = VIII 
 Age = 12 years
